@@ -17,13 +17,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=agentwolfcut&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=agentwolfcut&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=agentwolfcut&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=agentwolfcut&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+![Agent](https://i.pinimg.com/564x/2b/cd/36/2bcd36e2eea112a31abc0befa6b16589.jpg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=agentwolfcut&icon=0&color=4)](https://visitcount.itsvg.in)
 
 
-![Agent](https://i.pinimg.com/564x/2b/cd/36/2bcd36e2eea112a31abc0befa6b16589.jpg)
+
 
